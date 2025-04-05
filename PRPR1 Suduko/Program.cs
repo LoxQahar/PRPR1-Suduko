@@ -91,9 +91,6 @@ namespace PRPR1_Suduko
 
         static void Main(string[] args)
         {
-            Console.Title = "Suduko Game";
-            Console.CursorVisible = false;
-
             drawBoard2();
             numInStart();
             
